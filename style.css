@@ -37,7 +37,8 @@
 
 .title {
     display: block;
-    font-family: 'Calibri';
+    margin-left: 60px;
+    font-family: 'Verdana';
     font-size: 52px;
     font-weight: bolder;
 }
