@@ -32,7 +32,7 @@
     width: 100%;
     text-decoration: none;
     border: 20px solid transparent;
-    color: black;
+    color: white;
 
 }
 .left {
@@ -48,4 +48,6 @@
 footer{
     text-align: center;
     background: rgb(123, 105, 135);
+    color: white;
+
 }
